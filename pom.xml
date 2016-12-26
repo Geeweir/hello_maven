@@ -6,7 +6,7 @@
 	<groupId>com.geeweir.hello_world</groupId>
 	<artifactId>hello_world</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>Maven hello world project</name>
+	<name>Maven hello  world project</name>
 	
 	<properties>
 		<project.build.Encoding>UTF-8</project.build.Encoding>
